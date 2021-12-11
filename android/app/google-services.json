@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768459909025",
+    "project_id": "signtospeech-a348a",
+    "storage_bucket": "signtospeech-a348a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768459909025:android:fd91c7dbfd20f814680de0",
+        "android_client_info": {
+          "package_name": "com.example.signtospeech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768459909025-bu8tneuijor7gfo6s0tbr2ttogev6o42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67mF2-5ZIRExBGILTh4KPp6FYImBTtwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768459909025-bu8tneuijor7gfo6s0tbr2ttogev6o42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
