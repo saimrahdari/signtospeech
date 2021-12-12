@@ -1,6 +1,6 @@
 # signtospeech
 
-A new Flutter project.
+Sign To Speech Flutter Project
 
 ## Getting Started
 
